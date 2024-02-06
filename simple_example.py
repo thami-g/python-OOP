@@ -1,8 +1,8 @@
-
 class Robot:
     pass
 
-if __name__ == '__main__':
+
+if __name__ == "__main__":
     x = Robot()
     y = Robot()
 
@@ -11,3 +11,4 @@ if __name__ == '__main__':
     y.name = "Caliban"
     y.build_year = "1993"
     print(x.name)
+
